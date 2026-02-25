@@ -35,7 +35,7 @@ Rust `macroquad`/`rodio` echolocation game prototype with directional audio cues
 
 [`portfolio-legacy-projects`](https://github.com/wplpbpnp/portfolio-legacy-projects)
 
-Landing page for NASA AMuBA undergraduate research and UMD aerospace/math coursework. The MATLAB subprojects are organized and linked from that repo.
+Landing page for NASA AMuBA undergraduate research and UMD aerospace/math coursework.
 
 ## Public Project Index
 
