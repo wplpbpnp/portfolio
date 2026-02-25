@@ -2,7 +2,7 @@
 
 Selected projects across software engineering, aerospace engineering analysis, simulation/control, graphics, and trading/research infrastructure.
 
-Maintained by: Ben Stutzke
+Portfolio by: Ben Stutzke
 
 ## Public Project Index
 
