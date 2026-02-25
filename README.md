@@ -11,4 +11,5 @@ Selected projects across software engineering, aerospace engineering analysis, s
 | [`echo_game`](https://github.com/wplpbpnp/echo_game) | Rust / Game Dev / Audio | Echolocation game prototype with directional audio and calibration |
 | [`three_raytracer`](https://github.com/wplpbpnp/three_raytracer) | WebGL / Graphics | Three.js + GLSL path tracing demo in a single HTML file |
 | [`rust-raytracing-in-one-weekend`](https://github.com/wplpbpnp/rust-raytracing-in-one-weekend) | Rust / Graphics | Ray tracer implementation with rendered output samples |
+| [`enee150-c-chess`](https://github.com/wplpbpnp/enee150-c-chess) | C / Coursework | Console chess project with move validation and shell-based test scripts |
 | [`portfolio-legacy-projects`](https://github.com/wplpbpnp/portfolio-legacy-projects) | MATLAB / Aerospace | Landing page for NASA AMuBA undergraduate research and UMD aerospace/math coursework |
